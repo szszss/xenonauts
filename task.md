@@ -25,7 +25,7 @@
 * [x] armour.basic.txt
 * [ ] armour.buzzard.txt
 * [ ] armour.jackal.txt
-* [ ] armour.predator.txt
+* [x] armour.predator.txt
 * [ ] armour.sentinel.txt
 * [ ] armour.wolf.txt
 * [x] AV.AUTOCANNON.txt
@@ -42,39 +42,39 @@
 * [x] MedicalCenter.txt
 * [x] RadarArray.txt
 * [ ] Researches.AdvancedMedpack.txt
-* [ ] Researches.AleniumEnrichment.txt
+* [ ] ~~Researches.AleniumEnrichment.txt~~
 * [x] Researches.AleniumExplosives.txt
 * [x] Researches.Alenium.txt
 * [x] Researches.AleniumWarheads.txt
 * [x] Researches.AlienAlloyFabrication.txt
 * [x] Researches.AlienAlloyHardening.txt
-* [ ] Researches.AlienAlloyProduction.txt
+* [ ] ~~Researches.AlienAlloyProduction.txt~~
 * [x] Researches.AlienAlloys.txt
-* [ ] Researches.AlienAntigravityGenerator.txt
-* [ ] Researches.AlienAssaultPlasma.txt
-* [ ] Researches.AlienBaseFacilities.txt
-* [ ] Researches.AlienBattleRifle.txt
+* [x] Researches.AlienAntigravityGenerator.txt
+* [x] Researches.AlienAssaultPlasma.txt
+* [x] Researches.AlienBaseFacilities.txt
+* [x] Researches.AlienBattleRifle.txt
 * [x] Researches.AlienBiology.txt
-* [ ] Researches.AlienCommunicationArray.txt
-* [ ] Researches.AlienElectronics.txt
-* [ ] Researches.AlienFusionReactor.txt
-* [ ] Researches.AlienGrenade.txt
-* [ ] Researches.AlienHeavyPlasmaRifle.txt
+* [x] Researches.AlienCommunicationArray.txt
+* [x] Researches.AlienElectronics.txt
+* [x] Researches.AlienFusionReactor.txt
+* [x] Researches.AlienGrenade.txt
+* [x] Researches.AlienHeavyPlasmaRifle.txt
 * [ ] Researches.AlienHyperdrive.txt
 * [ ] Researches.AlienInterrogation.txt
 * [ ] Researches.AlienInvasion.txt
-* [ ] Researches.AlienKineticShield.txt
+* [ ] ~~Researches.AlienKineticShield.txt~~
 * [ ] Researches.AlienLeaderInterrogation.txt
-* [ ] Researches.AlienOfficerInterrogation.txt
-* [ ] Researches.AlienPlasmaCannon.txt
+* [x] Researches.AlienOfficerInterrogation.txt
+* [x] Researches.AlienPlasmaCannon.txt
 * [ ] Researches.AlienPlasmaPistol.txt
-* [ ] Researches.AlienPlasmaRifle.txt
+* [x] Researches.AlienPlasmaRifle.txt
 * [ ] Researches.AlienPlasmaTechnology.txt
 * [ ] Researches.AlienPowerSource.txt
-* [ ] Researches.AlienReactor.txt
+* [x] Researches.AlienReactor.txt
 * [ ] Researches.AlienSensorArray.txt
 * [ ] Researches.AlienSingularityCore.txt
-* [ ] Researches.AlienSingularityGrenade.txt
+* [ ] ~~Researches.AlienSingularityGrenade.txt~~
 * [ ] Researches.AlienSniperPlasma.txt
 * [ ] Researches.AndronDisassembly.txt
 * [x] Researches.AssaultShield.txt
@@ -90,7 +90,7 @@
 * [ ] Researches.HeavyDroneWreckage.txt
 * [x] Researches.HunterMissiles.txt
 * [ ] Researches.HyperdriveDisruptor.txt
-* [ ] Researches.HypervelocityProjectiles.txt
+* [ ] ~~Researches.HypervelocityProjectiles.txt~~
 * [ ] Researches.JumpUnit.txt
 * [ ] Researches.LaserWeaponry.txt
 * [ ] Researches.LIDARArray.txt
@@ -100,10 +100,10 @@
 * [ ] Researches.MediumDroneWreckage.txt
 * [ ] Researches.OperationEndgame.txt
 * [ ] Researches.ParticleBeam.txt
-* [ ] Researches.ParticleCannon.txt
+* [ ] ~~Researches.ParticleCannon.txt~~
 * [ ] Researches.PlasmaBolt.txt
 * [ ] Researches.PlasmaExplosives.txt
-* [ ] Researches.PlasmaGrenade.txt
+* [ ] ~~Researches.PlasmaGrenade.txt~~
 * [ ] Researches.PlasmaWarheads.txt
 * [ ] Researches.PlasmaWeaponry.txt
 * [ ] Researches.PraetorAutopsy.txt
